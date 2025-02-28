@@ -8,7 +8,7 @@ def start_game():
     
    
     random_no = random.randint(1, 100)
-    # print(f"the number is {random_no}") 
+    
     
    
     easy_level = 10
